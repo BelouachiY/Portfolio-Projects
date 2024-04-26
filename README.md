@@ -5,6 +5,7 @@ Je continue à explorer de nouveaux sujets et à développer mes compétences en
 Ce repository contient plusieurs projets d'analyse de données réalisés dans le cadre de ma formation en tant que Data Analyst. Chaque projet est organisé dans un dossier distinct et comprend un ensemble de données ainsi qu'un fichier Jupyter Notebook détaillant l'analyse effectuée.
 
                                                  Projets Disponibles
+                                                   
                                              COVID-19 data exploration :
 
 Dossier : analyse_COVID-19
