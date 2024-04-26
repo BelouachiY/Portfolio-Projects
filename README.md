@@ -28,4 +28,5 @@ Jupyter Notebook |
 Pandas |
 numpy |
 Matplotlib |
+seaborn |
 Scikit-learn |
