@@ -16,9 +16,10 @@ Description : Analyser des données de vente pour répondre à des questions pr�
 
 
                                                  Technologies Utilisées:
-SQL Server 
-Python
-Jupyter Notebook
-Pandas
-Matplotlib
-Scikit-learn
+SQL Server |
+Python |
+Jupyter Notebook |
+Pandas |
+numpy |
+Matplotlib |
+Scikit-learn |
